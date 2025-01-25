@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: linear-gradient(to right, #6a11cb, #310335);
+    color: #f0f0f0;
+}
+
+.highlightedText {
+    color: #ffdd57;
+    font-size: 18px;
+}
+
+#borderedBox {
+    border: 2px solid red;
+    padding: 10px;
+    background-color: #fff;
+    color: #333;
+}
+
+.container {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+}
+
+strong {
+    display: block;
+    
+    color: #f0f0f0;
+}
+
+.dashedBorder {
+    border: 2px dashed blue;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+    color: #333;
+}
+
+
+.fontProperties {
+    font-family: "Century Gothic", sans-serif; 
+    font-size: 20px;
+    font-weight: bold;
+} 
+
+#hi{
+    text-align: center;
+}
